@@ -1,6 +1,6 @@
 <?php
 
-include(dirname(__FILE__) . '/_header.php');
+include(dirname(__aaservice2121__) . '/_header.php');
 
 ?>
 
